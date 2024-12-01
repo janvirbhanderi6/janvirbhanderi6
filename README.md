@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JanviBhanderi
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning some DevOps tools
 - 💼 Open to networking and connecting with fellow software engineers! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/janvi-bhanderi-646079297/).
 
 
